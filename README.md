@@ -1,60 +1,87 @@
-## Hi there 👋
-<h1 align="center">👋 Hello, I'm Krunal Jadhav!</h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff">Manthan Patel</span></h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="150" alt="profile logo">
+  <img src="https://cdn-icons-png.flaticon.com/512/1053/1053244.png" width="120" alt="Data Science Avatar">
 </p>
 
-🎯 **Aspiring Data Scientist | AI & ML Enthusiast | Data Analyst | Python Developer**  
-Passionate about leveraging data science and machine learning to solve real-world problems, with a strong foundation in data analysis, visualization, and AI technologies.
+<p align="center">
+  <strong>Data Explorer 🔍 | Future AI Architect 🤖 | Visual Storyteller 📊</strong><br>
+  Turning raw data into real-world impact using Python, AI, and a little creativity. 🚀
+</p>
 
 ---
 
-### ⚡ Skills & Technologies
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-00A86B?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+## 🧰 Tech Toolbox
+
+A curated stack of tools I use to analyze, visualize, and build intelligent systems:
+
+![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff1493?style=flat)
 
 ---
 
-### 💼 Professional Experience
-- **Data Analyst Intern** @ Media Shades *(Dec 2024 – May 2025)*  
-  Focused on data collection, analysis, and visualization to drive business insights.
+## 🧠 About Me
+
+- 🌱 Currently diving deeper into ML, AI, and advanced data visualization techniques.
+- 🏙️ Relocated to Bengaluru to immerse myself in the heart of tech innovation.
+- 📚 I love turning data into insight and stories into strategies.
+- 🎯 Goal: Become a Data Scientist who not only builds models, but builds impact.
 
 ---
 
-### 🚀 Projects
-#### **AI-Driven Sports Management System**
-*(Feb 2025 – Apr 2025, ITM SLS Baroda University)*  
-A full-stack AI-powered web app for cricket management, featuring match analysis, player stats, and prediction models.  
-🔗 [GitHub Repository](https://github.com/manthanpatel-18/ai-cricket-management-system)
+## 🛠️ Real Work, Real Learning
+
+### 💼 Internship
+- 🧩 <strong>Data Analyst Intern</strong> — Media Shades  
+  Conducted in-depth data analysis and created visual dashboards for performance reporting.
+
+### 🚀 Capstone Project
+- 🏏 <strong>AI-Driven Sports Management System</strong>  
+  A full-stack web platform built for managing cricket performance analytics.  
+  Integrated match tracking, player prediction models, and intuitive dashboards.  
+  🔗 GitHub: [AI Cricket Management System](https://github.com/manthanpatel-18/ai-cricket-management-system)
 
 ---
 
-### 📜 Certifications
-- **Machine Learning** – Simplilearn *(Mar 2025)*  
-- **Data Analytics** – 30DaysCoding *(Feb 2025)*  
-- **Python Development** – 30DaysCoding *(Jan 2025)*  
-- **Big Data Analytics Course** – Great Learning *(Oct 2024)*  
-- **Blockchain Basics** – Great Learning *(Oct 2024)*  
+## 📜 Certifications
+
+- 📘 Machine Learning – Simplilearn
+- 📊 Data Analytics – 30DaysCoding
+- 🐍 Python Development – 30DaysCoding
+- 🧠 Big Data Analytics – Great Learning
+- 🔗 Blockchain Basics – Great Learning
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manthanpatel-18&show_icons=true&theme=radical)
+## 📊 GitHub Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manthanpatel-18&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthanpatel-18&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manthanpatel-18&show_icons=true&theme=tokyonight)
 
 ---
 
-### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/your-link)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=ko-fi&logoColor=white)](https://your-portfolio-link)
+## 🤝 Let's Connect & Collaborate
+
+<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/YOUR-INSTA" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-12100E?style=flat&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
-✨ *Let’s connect & innovate together!* ✨
+<p align="center">
+✨ Let’s build something intelligent, beautiful, and meaningful together. ✨
+</p>
