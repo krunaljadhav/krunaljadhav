@@ -1,84 +1,90 @@
-<h1 align="center">🌟 Manthan Patel — Data Meets Intuition 🌟</h1>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff">Krunal Jadhav!</span></h1>
 
 <p align="center">
-  <img src="banglore/Snapchat-1948954075~2.jpg"  width="200" alt="Data Avatar" />
+  <img src="banglore/Snapchat-1948954075~2.jpg" width="120" alt="Data Science Avatar">
 </p>
 
 <p align="center">
-  <i>“In a world of noisy data, I strive to find the signal.”</i><br>
-  <strong>🌍 Bengaluru | 🧠 Data Enthusiast | 📊 Storyteller | 🚀 Dreamer</strong>
+  <strong>Data Explorer 🔍 | Future AI Architect 🤖 | </strong><br>
+  Turning raw data into real-world impact using Python, AI, and a little creativity. 🚀
 </p>
 
 ---
 
-## 🧭 Who Am I?
+## 🧰 Tech Toolbox
 
-🎓 A tech explorer who recently landed in the vibrant city of Bengaluru to chase my dream of becoming a Data Scientist.  
-🔍 I thrive at the intersection of numbers, narratives, and neural networks.  
-🌱 I love learning — from regression lines to cricket prediction models.
+A curated stack of tools I use to analyze, visualize, and build intelligent systems:
 
----
-
-## 🧠 Tech Mindmap
-
-Here’s my current arsenal of tools and tech:
-
-🧮 Languages & Libraries  
-→ Python | NumPy | Pandas | Matplotlib | Seaborn | Scikit-Learn | TensorFlow
-
-📊 Data Tools  
-→ Power BI | Excel | SQL | Google Sheets | Tableau (beginner)
-
-🧠 Concepts  
-→ Machine Learning | Data Analytics | Deep Learning | AI Applications | Blockchain Basics
+![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff1493?style=flat)
 
 ---
 
-## 🏁 The Journey So Far
+## 🧠 About Me
 
-📍 Dec 2024 - May 2025: Data Analyst Intern @ Media Shades  
-→ Crafted visualizations, identified trends, and contributed to strategic decisions using real-world data.  
-
-📍 Feb 2025 - Apr 2025: Final Year Project — AI-Driven Sports Management System  
-→ A cricket-focused AI app with predictive modeling, player statistics, and match insights.  
-🔗 GitHub: https://github.com/manthanpatel-18/ai-cricket-management-system
+- 🌱 Currently diving deeper into ML, AI, and advanced data visualization techniques.
+- 🏙️ Relocated to Bengaluru to immerse myself in the heart of tech innovation.
+- 📚 I love turning data into insight and stories into strategies.
+- 🎯 Goal: Become a Data Scientist who not only builds models, but builds impact.
 
 ---
 
-## 🏆 Certification Achievements
+## 🛠️ Real Work, Real Learning
 
-📚 Machine Learning – Simplilearn (Mar 2025)  
-📊 Data Analytics – 30DaysCoding (Feb 2025)  
-🐍 Python Development – 30DaysCoding (Jan 2025)  
-🧠 Big Data Analytics – Great Learning (Oct 2024)  
-🔐 Blockchain Basics – Great Learning (Oct 2024)
+### 💼 Internship
+- 🧩 <strong>Web devloper intern </strong> — Media Shades  
+  Conducted good gym equipmentshop dashboard and created visual dashboards for performance reporting.
 
----
-
-## 🚀 GitHub Journey
-
-<img src="https://github-readme-stats.vercel.app/api?username=manthanpatel-18&show_icons=true&theme=vision-friendly-dark" height="150"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanpatel-18&theme=highcontrast" height="150">  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manthanpatel-18&layout=compact&theme=highcontrast" height="150">
+### 🚀 Capstone Project
+- 🏏 <strong>AI-Driven Sports Management System</strong>  
+  A full-stack web platform built for managing cricket performance analytics.  
+  Integrated match tracking, player prediction models, and intuitive dashboards.  
+  🔗 GitHub: [AI Cricket Management System](https://github.com/manthanpatel-18/ai-cricket-management-system)
 
 ---
 
-## 📍 Bengaluru Diaries: A New Chapter
+## 📜 Certifications
 
-✈️ I’ve recently shifted to Bengaluru — India’s tech capital — to be in the heart of innovation.  
-💬 If you’re in the city or working in Data, AI, or Analytics, let’s meet for chai & charts!
+- 📘 Machine Learning & AI – DevTown & Devleloper Student Clubs
+- 🧠 Web Developement - Acmegrade
+- 📊 JavaScript and React.js - Microsoft Learn Student Ambassador
+- 📊 Python for Data Analytics – Great Learning
+- 🐍 Python Development – 30DaysCoding
+- 🧠 Big Data Analytics – Great Learning
+- 🔗 Google Analytics – Great Learning
+- 🔗 PowerBI - OfficeMaster
 
 ---
 
-## 🔗 Let’s Get Social
+## 📊 GitHub Activity
 
-<a href="https://www.linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/YOUR-INSTA"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-<a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=white"/></a>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunaljadhav&theme=nightowl)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunaljadhav&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunaljadhav&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<a href="https://www.linkedin.com/in/krunal-jadhav3007/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/krunal_jadhav_07/" target="_blank">
+  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://YOUR-PORTFOLIO.com" target="_blank">
+  <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-12100E?style=flat&logo=vercel&logoColor=white"/>
+</a>
 
 ---
 
 <p align="center">
-  🌈 “Curiosity is the compass. Data is the path. Insight is the destination.”  
-  <br>Let’s collaborate and build something impactful together!
+✨ Let’s build something intelligent, beautiful, and meaningful together. ✨
 </p>
