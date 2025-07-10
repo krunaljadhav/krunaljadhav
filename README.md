@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Manthan Patel — Data Meets Intuition 🌟</h1>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="120" alt="Data Avatar" />
+  <img src="banglore/Snapchat-1948954075~2.jpg" />
 </p>
 
 <p align="center">
