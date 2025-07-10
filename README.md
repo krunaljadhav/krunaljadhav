@@ -1,52 +1,45 @@
-<h1 align="center">Hey there! 👋 I'm <span style="color:#00bfff">Krunal Jadhav!</span></h1>
+<h1 align="center">👋 Hello, I'm Krunal Jadhav!</h1>
 
 <p align="center">
-  <img src="banglore/Snapchat-1948954075~2.jpg" width="120" alt="Data Science Avatar">
+  <img src="" width="150" alt="profile logo">
 </p>
 
-<p align="center">
-  <strong>Data Explorer 🔍 | Future AI Architect 🤖 | </strong><br>
-  Turning raw data into real-world impact using Python, AI, and a little creativity. 🚀
-</p>
+🎯 **Aspiring Data Scientist | AI & ML Enthusiast | Data Analyst | Python Developer**  
+Passionate about leveraging data science and machine learning to solve real-world problems, with a strong foundation in data analysis, visualization, and AI technologies.
 
 ---
 
-## 🧰 Tech Toolbox
-
-A curated stack of tools I use to analyze, visualize, and build intelligent systems:
-
-![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff1493?style=flat)
+### ⚡ Skills & Technologies
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-00A86B?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF1493?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 ---
-
 ## 🧠 About Me
 
 - 🌱 Currently diving deeper into ML, AI, and advanced data visualization techniques.
-- 🏙️ Relocated to Bengaluru to immerse myself in the heart of tech innovation.
+- 🏙 Relocated to Bengaluru to immerse myself in the heart of tech innovation.
 - 📚 I love turning data into insight and stories into strategies.
 - 🎯 Goal: Become a Data Scientist who not only builds models, but builds impact.
 
 ---
 
-## 🛠️ Real Work, Real Learning
+## 🛠 Real Work, Real Learning
 
 ### 💼 Internship
-- 🧩 <strong>Web devloper intern </strong> — Media Shades  
+- 🧩 <strong>Web devloper intern </strong> — Acmegrade  
   Conducted good gym equipmentshop dashboard and created visual dashboards for performance reporting.
 
 ### 🚀 Capstone Project
 - 🏏 <strong>AI-Driven Sports Management System</strong>  
   A full-stack web platform built for managing cricket performance analytics.  
   Integrated match tracking, player prediction models, and intuitive dashboards.  
-  🔗 GitHub: [AI Cricket Management System](https://github.com/manthanpatel-18/ai-cricket-management-system)
+  🔗 GitHub: [AI Cricket Management System](https://github.com/krunaljadhav/ai-cricket-management-system)
 
 ---
 
@@ -63,16 +56,12 @@ A curated stack of tools I use to analyze, visualize, and build intelligent syst
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krunaljadhav&theme=nightowl)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krunaljadhav&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunaljadhav&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=krunaljadhav&show_icons=true&theme=radical)
 
 ---
 
-## 🤝 Let's Connect & Collaborate
-
+### 🔗 Connect with Me
 <a href="https://www.linkedin.com/in/krunal-jadhav3007/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
 </a>
@@ -84,7 +73,4 @@ A curated stack of tools I use to analyze, visualize, and build intelligent syst
 </a>
 
 ---
-
-<p align="center">
-✨ Let’s build something intelligent, beautiful, and meaningful together. ✨
-</p>
+✨ *Let’s connect & innovate together!* ✨
