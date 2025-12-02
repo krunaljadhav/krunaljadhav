@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Krunal Jadhav!</h1>
 
 <p align="center">
-  <img src="banglore/krunalprofessional.png" width="300" alt="profile logo">
+  <img src="banglore/krunal professional.png" width="300" alt="profile logo">
 </p>
 
 🎯 **Aspiring Data Scientist | AI & ML Enthusiast | Data Analyst | Python Developer**  
