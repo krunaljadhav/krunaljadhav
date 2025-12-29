@@ -102,8 +102,12 @@ Passionate about transforming data into insights using analytics, visualization,
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/krunaljadhav&show_icons=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=krunaljadhav&show_icons=true&hide_border=true"
+    alt="GitHub Stats"
+  />
 </p>
+
 
 
 ## 🔗 Connect with Me
