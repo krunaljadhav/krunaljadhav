@@ -99,14 +99,12 @@ Passionate about transforming data into insights using analytics, visualization,
 - Power BI – OfficeMaster  
 
 ---
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=krunaljadhav&show_icons=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
+- 📊 Focused on **Data Analytics, Power BI, and Python projects**
+- 📁 Building real-world dashboards and analytics solutions
+- 🔁 Consistent learner with hands-on project experience
+
 
 
 
